@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#f7f2e7"/>
+  <!-- tent -->
+  <path d="M12 40 L27 16 L42 40 Z" fill="#c97b2d" stroke="#8a4c15" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M23 40 L27 28 L31 40 Z" fill="#7a4413"/>
+  <path d="M27 16 L30 11" stroke="#8a4c15" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- canoe on the waterline -->
+  <path d="M38 46 C 42 50 54 50 58 46 C 54 44 42 44 38 46 Z" fill="#b96a22" stroke="#8a4c15" stroke-width="2" stroke-linejoin="round"/>
+  <!-- water lines -->
+  <path d="M8 52 q5 -3 10 0 q5 3 10 0 q5 -3 10 0 q5 3 10 0 q5 -3 8 0" fill="none" stroke="#3d8fa1" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M14 58 q5 -3 10 0 q5 3 10 0 q5 -3 10 0 q5 3 8 0" fill="none" stroke="#3d8fa1" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+</svg>
